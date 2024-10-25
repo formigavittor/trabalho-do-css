@@ -147,7 +147,7 @@ body {
 .prev:hover, .next:hover {
     background-color: rgba(0, 0, 0, 0.8);
 }
-. logo{
+.logo{
     height: 80px;
     padding: 12px 0;
 }
